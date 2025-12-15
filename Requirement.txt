@@ -1,0 +1,5 @@
+Package,Purpose in Your Project,Example Version
+tensorflow,"The core Deep Learning framework (for Keras, model definition, training, data loading).",tensorflow==2.15.0
+numpy,Essential for handling and manipulating the high-dimensional image data (28x28 arrays).,numpy==1.26.4
+matplotlib,"Used if you plotted training history (loss, accuracy curves) or displayed sample digits.",matplotlib==3.8.3
+h5py,Used by Keras/TensorFlow to save and load your trained model file (.h5).,h5py==3.10.0
